@@ -1,6 +1,14 @@
 [
 
 {
+		"name": "dots",
+		"author": "SK wallpapers",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/19.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-Ruby/refs/heads/main/19s.jpg",
+		"downloadable" : "false"
+		
+	},
+{
 		"name": "andrew-kliatskyi",
 		"author": "andrew-kliatskyi on Unsplash",
 		"url": "https://raw.githubusercontent.com/shahid921/toons-dark/main/andrew-kliatskyi-unsplash.jpg",
